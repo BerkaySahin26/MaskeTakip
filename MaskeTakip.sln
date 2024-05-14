@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{0EB4AE6C-3121-45A8-84EC-CE417BB72C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{02856F6C-5FA3-4A55-9A57-6476E3EFAE2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{7C2DEFC4-F263-43A2-9ED7-469CA9B4AD9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB4AE6C-3121-45A8-84EC-CE417BB72C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB4AE6C-3121-45A8-84EC-CE417BB72C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB4AE6C-3121-45A8-84EC-CE417BB72C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB4AE6C-3121-45A8-84EC-CE417BB72C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02856F6C-5FA3-4A55-9A57-6476E3EFAE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02856F6C-5FA3-4A55-9A57-6476E3EFAE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02856F6C-5FA3-4A55-9A57-6476E3EFAE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02856F6C-5FA3-4A55-9A57-6476E3EFAE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2DEFC4-F263-43A2-9ED7-469CA9B4AD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2DEFC4-F263-43A2-9ED7-469CA9B4AD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2DEFC4-F263-43A2-9ED7-469CA9B4AD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2DEFC4-F263-43A2-9ED7-469CA9B4AD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B355BCF9-E965-4C51-8DAA-225AD92B3BC7}
+	EndGlobalSection
+EndGlobal
